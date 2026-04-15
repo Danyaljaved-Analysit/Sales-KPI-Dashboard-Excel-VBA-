@@ -17,3 +17,4 @@ VBA (Macros)
  Notes:
 
 This project was created as part of my learning journey in data analysis. I focused on making the dashboard simple, readable, and useful for basic business insights.
+![Dashboard](kpidashboard.png)
